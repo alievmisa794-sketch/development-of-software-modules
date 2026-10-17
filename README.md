@@ -1,1 +1,1 @@
-# development-of-software-modules
+# дисциплина разработка программных модулей
